@@ -1,5 +1,0 @@
-{% extends 'base.html'%}
-{% from 'macro.html' import title_item %}
-{% block content %}
-{{title_item(title)}}
-{% endblock %}
